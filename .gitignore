@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs
+output/logs/*
+output/reports/*
+!output/logs/.gitkeep
+!output/reports/.gitkeep
+
+# Data files (keep folders, not large generated files)
+data/raw/**/*
+data/clean/**/*
+data/curated/**/*
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+!data/curated/.gitkeep

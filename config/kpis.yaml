@@ -1,0 +1,80 @@
+kpis:
+  - id: total_cases
+    name: Total Cases
+    category: volume
+    grain: daily
+    description: Count of cases created in the selected date range.
+    business_question: How many new cases are entering the operation?
+    formula_sql_hint: COUNT(DISTINCT case_id)
+
+  - id: open_backlog
+    name: Open Backlog
+    category: operations
+    grain: snapshot
+    description: Number of cases not yet closed at the end of the selected period.
+    business_question: How many unresolved cases remain?
+    formula_sql_hint: COUNT(*) WHERE case_status_current <> 'Closed'
+
+  - id: first_response_time_minutes
+    name: First Response Time (minutes)
+    category: sla
+    grain: case
+    description: Minutes from case creation to first outbound agent response.
+    business_question: Are we responding quickly enough?
+    formula_sql_hint: DATEDIFF(minute, case_created_ts, first_response_ts)
+
+  - id: sla_compliance_pct
+    name: SLA Compliance %
+    category: sla
+    grain: case
+    description: Percentage of cases meeting first-response SLA based on priority.
+    business_question: What share of cases meet SLA?
+    formula_sql_hint: SUM(CASE WHEN first_response_minutes <= sla_target THEN 1 ELSE 0 END) / COUNT(*)
+
+  - id: avg_time_to_close_hours
+    name: Avg Time to Close (hours)
+    category: operations
+    grain: case
+    description: Average hours between case creation and closure.
+    business_question: How long does case resolution take?
+    formula_sql_hint: AVG(DATEDIFF(hour, case_created_ts, case_closed_ts))
+
+  - id: escalation_rate_pct
+    name: Escalation Rate %
+    category: quality
+    grain: case
+    description: Percentage of cases escalated at least once.
+    business_question: Are complex or delayed cases escalating too often?
+    formula_sql_hint: COUNT(DISTINCT escalated_case_id) / COUNT(DISTINCT case_id)
+
+  - id: provider_response_time_minutes
+    name: Provider Response Time (minutes)
+    category: provider
+    grain: provider-case
+    description: Minutes from provider outreach to provider response.
+    business_question: Which providers are slow to respond?
+    formula_sql_hint: DATEDIFF(minute, provider_contacted_ts, provider_responded_ts)
+
+  - id: avg_case_cost_usd
+    name: Avg Case Cost (USD)
+    category: cost
+    grain: case
+    description: Average approved/paid cost per case, normalized to USD.
+    business_question: What is the average cost burden per case?
+    formula_sql_hint: AVG(case_cost_usd)
+
+  - id: reopen_rate_pct
+    name: Reopen Rate %
+    category: quality
+    grain: case
+    description: Percentage of closed cases reopened after initial closure.
+    business_question: Are closures durable, or are cases bouncing back?
+    formula_sql_hint: COUNT(DISTINCT reopened_case_id) / COUNT(DISTINCT closed_case_id)
+
+  - id: document_delay_hours
+    name: Document Delay (hours)
+    category: process
+    grain: case
+    description: Average hours spent waiting for requested documents.
+    business_question: How much delay is caused by missing documentation?
+    formula_sql_hint: AVG(waiting_for_docs_hours)

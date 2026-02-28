@@ -1,0 +1,49 @@
+project:
+  name: TravelAssist
+  environment: local
+  timezone: America/Chicago
+  owner: Franklin
+  version: 0.1.0
+
+paths:
+  raw_root: data/raw
+  clean_root: data/clean
+  curated_root: data/curated
+  logs_root: output/logs
+  reports_root: output/reports
+
+data_generation:
+  random_seed: 42
+  row_targets:
+    cases: 25000
+    status_history: 120000
+    contacts: 80000
+    documents: 35000
+    notes: 50000
+
+business_rules:
+  sla_minutes:
+    critical_first_response: 15
+    high_first_response: 60
+    medium_first_response: 240
+    low_first_response: 720
+  reopen_rate_pct: 4.0
+  escalation_base_rate_pct: 12.0
+
+azure:
+  enabled: false
+  adls:
+    storage_account: ""
+    container: ""
+  sql:
+    server: ""
+    database: ""
+  data_factory:
+    name: ""
+
+ai_services:
+  enabled: false
+  language:
+    endpoint: ""
+  document_intelligence:
+    endpoint: ""
