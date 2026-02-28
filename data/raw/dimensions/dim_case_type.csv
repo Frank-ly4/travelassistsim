@@ -1,0 +1,11 @@
+case_type_id,case_type_name,domain,complexity,requires_documents,typical_cost_band
+1,Medical Emergency,Medical,High,True,High
+2,Outpatient Sickness,Medical,Low,True,Medium
+3,Flight Cancellation,Travel,Low,False,Low
+4,Lost Baggage,Travel,Low,False,Low
+5,Medical Evacuation,Medical,Critical,True,Very High
+6,Hospital Admission Guarantee,Medical,High,True,High
+7,Trip Interruption,Travel,Medium,True,Medium
+8,Repatriation Coordination,Medical,Critical,True,Very High
+9,Prescription Assistance,Medical,Low,False,Low
+10,Telemedicine Referral,Medical,Low,False,Low

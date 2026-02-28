@@ -1,0 +1,10 @@
+dim_table,row_count,column_count,columns
+dim_agent,60,9,"agent_id, agent_code, agent_name, team_id, team_name, seniority, language_band, shift_name, active_flag"
+dim_case_type,10,6,"case_type_id, case_type_name, domain, complexity, requires_documents, typical_cost_band"
+dim_channel,5,3,"channel_id, channel_name, channel_group"
+dim_country,22,5,"country_code, country_name, region_group, cost_index, response_delay_multiplier"
+dim_policy_plan,5,4,"policy_plan_id, policy_plan_name, coverage_multiplier, priority_support_included"
+dim_priority,4,3,"priority_id, priority_name, sla_first_response_minutes"
+dim_provider,180,10,"provider_id, provider_name, provider_type, country_code, country_name, region_group, network_status, response_reliability_score, provider_cost_index_adj, is_active"
+dim_status,11,5,"status_id, status_name, stage_order, is_terminal, stage_group"
+dim_team,6,3,"team_id, team_name, department"

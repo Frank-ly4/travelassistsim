@@ -1,0 +1,5 @@
+priority_id,priority_name,sla_first_response_minutes
+1,Low,720
+2,Medium,240
+3,High,60
+4,Critical,15

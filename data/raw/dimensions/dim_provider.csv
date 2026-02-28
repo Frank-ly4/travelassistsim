@@ -1,0 +1,181 @@
+provider_id,provider_name,provider_type,country_code,country_name,region_group,network_status,response_reliability_score,provider_cost_index_adj,is_active
+1,Powell-Phillips Clinic,Pharmacy,AE,UAE,MEA,In-Network,74,0.85,True
+2,"Carroll, Sullivan and Bass Center",Clinic,MY,Malaysia,APAC,Out-of-Network,97,0.86,True
+3,"Kennedy, Santana and Flynn Center",Ambulance,IN,India,APAC,In-Network,82,1.07,True
+4,"Collins, Drake and Hernandez Center",Pharmacy,VN,Vietnam,APAC,In-Network,73,1.26,True
+5,Higgins Group Services,Clinic,JP,Japan,APAC,Out-of-Network,94,1.06,True
+6,Robinson-Brock Group,Air Ambulance,ES,Spain,EMEA,In-Network,64,0.96,True
+7,"Schmidt, Hansen and Stewart Clinic",Air Ambulance,IT,Italy,EMEA,In-Network,90,1.08,True
+8,Green-Wright Clinic,Travel Vendor,DE,Germany,EMEA,Out-of-Network,90,1.22,True
+9,Nelson LLC Hospital,Ambulance,BR,Brazil,Americas,Out-of-Network,95,1.07,True
+10,Perry LLC Center,Hospital,US,United States,Americas,In-Network,64,1.2,True
+11,"Smith, Gilmore and Johnston Services",Air Ambulance,US,United States,Americas,Out-of-Network,58,1.04,True
+12,"Hurst, Freeman and Nelson Services",Hospital,ES,Spain,EMEA,Out-of-Network,74,1.12,True
+13,Calhoun-Hooper Center,Hospital,ES,Spain,EMEA,Out-of-Network,76,0.92,True
+14,White-Green Center,Hospital,US,United States,Americas,Out-of-Network,92,1.17,True
+15,Walton-Decker Clinic,Clinic,AE,UAE,MEA,Out-of-Network,75,0.97,True
+16,"Williams, Johnson and Wright Group",Hospital,CN,China,APAC,Out-of-Network,56,0.96,True
+17,Marshall LLC Services,Travel Vendor,TH,Thailand,APAC,In-Network,70,1.18,True
+18,"Byrd, Rubio and Sanders Hospital",Clinic,TR,Turkey,EMEA,In-Network,65,1.14,True
+19,Hogan PLC Services,Hospital,ID,Indonesia,APAC,In-Network,61,0.87,True
+20,Atkinson Group Hospital,Ambulance,JP,Japan,APAC,Out-of-Network,97,1.1,True
+21,Thompson-Boyd Center,Air Ambulance,SG,Singapore,APAC,Out-of-Network,95,0.9,True
+22,Morris-Sanchez Services,Ambulance,BR,Brazil,Americas,Out-of-Network,84,0.93,True
+23,Johnson-Rosales Clinic,Ambulance,KR,South Korea,APAC,Out-of-Network,70,1.16,True
+24,"Beard, Peters and Black Services",Air Ambulance,VN,Vietnam,APAC,In-Network,77,0.99,True
+25,"Joseph, West and Smith Clinic",Hospital,ID,Indonesia,APAC,In-Network,81,1.23,True
+26,Tran-Cooper Hospital,Clinic,IN,India,APAC,Out-of-Network,99,1.18,True
+27,Griffith LLC Center,Ambulance,US,United States,Americas,Out-of-Network,99,1.0,True
+28,Hardy-Bray Clinic,Pharmacy,SG,Singapore,APAC,In-Network,67,0.94,True
+29,Smith-Ferguson Center,Travel Vendor,IT,Italy,EMEA,Out-of-Network,61,0.96,True
+30,"Oneill, Henry and Salas Center",Hospital,CN,China,APAC,In-Network,90,0.89,True
+31,Everett-Woods Group,Ambulance,CA,Canada,Americas,Out-of-Network,85,0.94,True
+32,Miller-Wright Services,Air Ambulance,KR,South Korea,APAC,Out-of-Network,59,0.92,True
+33,"Branch, Torres and Oliver Hospital",Air Ambulance,US,United States,Americas,In-Network,88,1.3,True
+34,Thompson Inc Center,Pharmacy,MX,Mexico,Americas,In-Network,68,1.18,True
+35,"Campbell, Heath and Jones Hospital",Hospital,VN,Vietnam,APAC,Out-of-Network,83,0.87,True
+36,Serrano-Jones Center,Ambulance,PH,Philippines,APAC,In-Network,82,0.96,True
+37,Mason-Snyder Clinic,Ambulance,VN,Vietnam,APAC,Out-of-Network,83,1.19,True
+38,Hayden PLC Group,Travel Vendor,KR,South Korea,APAC,In-Network,82,0.98,True
+39,Stone-Ramos Center,Hospital,CA,Canada,Americas,Out-of-Network,91,0.97,True
+40,Morris-Garcia Clinic,Clinic,CN,China,APAC,Out-of-Network,95,1.09,True
+41,"Johnson, Miller and King Clinic",Ambulance,VN,Vietnam,APAC,Out-of-Network,99,1.18,True
+42,Dean-Jimenez Services,Air Ambulance,SG,Singapore,APAC,In-Network,97,0.88,True
+43,Johnson Ltd Clinic,Hospital,DE,Germany,EMEA,In-Network,72,1.07,True
+44,Murray Inc Center,Clinic,MX,Mexico,Americas,In-Network,74,1.05,True
+45,Bryant and Sons Clinic,Clinic,BR,Brazil,Americas,Out-of-Network,73,1.27,True
+46,Villa-Romero Clinic,Clinic,GB,United Kingdom,EMEA,In-Network,59,0.98,True
+47,Cook-Hines Clinic,Ambulance,TH,Thailand,APAC,Out-of-Network,92,1.07,True
+48,Flores Group Clinic,Air Ambulance,GB,United Kingdom,EMEA,Out-of-Network,67,1.04,True
+49,Kane-Sawyer Services,Air Ambulance,GB,United Kingdom,EMEA,In-Network,86,1.1,True
+50,Harrison LLC Center,Hospital,DE,Germany,EMEA,Out-of-Network,55,1.29,True
+51,Finley-Sims Services,Travel Vendor,AE,UAE,MEA,Out-of-Network,96,1.28,True
+52,Francis Group Hospital,Travel Vendor,ES,Spain,EMEA,In-Network,94,1.17,True
+53,Williams Inc Hospital,Pharmacy,SG,Singapore,APAC,In-Network,83,0.88,True
+54,"Sparks, Jackson and Miller Services",Ambulance,IN,India,APAC,Out-of-Network,82,1.12,True
+55,Scott-Smith Hospital,Travel Vendor,GB,United Kingdom,EMEA,In-Network,86,1.08,True
+56,"Hayden, Vaughn and Bryant Hospital",Ambulance,DE,Germany,EMEA,In-Network,59,1.34,True
+57,"Phillips, Lyons and Johnson Hospital",Clinic,IN,India,APAC,Out-of-Network,85,1.04,True
+58,Lawson LLC Hospital,Air Ambulance,AU,Australia,APAC,Out-of-Network,55,1.22,True
+59,"Davis, Burton and Williams Center",Pharmacy,PH,Philippines,APAC,In-Network,94,0.86,True
+60,Gonzalez PLC Clinic,Hospital,DE,Germany,EMEA,Out-of-Network,63,1.01,True
+61,"Harrell, Brock and Mcdonald Hospital",Travel Vendor,TR,Turkey,EMEA,Out-of-Network,65,1.33,True
+62,Baker Inc Clinic,Clinic,KR,South Korea,APAC,In-Network,98,1.03,True
+63,"Hall, Johnson and Henson Group",Ambulance,DE,Germany,EMEA,Out-of-Network,92,1.32,True
+64,"Ortiz, Taylor and Shah Hospital",Ambulance,US,United States,Americas,In-Network,96,1.26,True
+65,Santiago-Paul Clinic,Air Ambulance,IN,India,APAC,In-Network,61,0.92,True
+66,Vaughn and Sons Hospital,Air Ambulance,US,United States,Americas,In-Network,81,1.16,True
+67,"Winters, Newman and Brown Hospital",Air Ambulance,DE,Germany,EMEA,In-Network,78,0.87,True
+68,Williams LLC Services,Clinic,CN,China,APAC,In-Network,84,0.96,True
+69,Schroeder-Kramer Center,Clinic,PH,Philippines,APAC,In-Network,59,0.96,True
+70,Guerrero Inc Center,Hospital,MX,Mexico,Americas,Out-of-Network,64,0.98,True
+71,Harmon PLC Group,Hospital,MY,Malaysia,APAC,Out-of-Network,70,0.94,True
+72,"Wheeler, Hayes and Walker Hospital",Pharmacy,SG,Singapore,APAC,In-Network,85,0.99,True
+73,Parks-Henry Clinic,Hospital,MX,Mexico,Americas,Out-of-Network,84,1.35,True
+74,"Richards, Joseph and James Services",Hospital,DE,Germany,EMEA,In-Network,75,0.91,True
+75,"Curtis, Mack and Le Group",Travel Vendor,MX,Mexico,Americas,Out-of-Network,84,1.25,True
+76,Blair-Edwards Clinic,Air Ambulance,ID,Indonesia,APAC,Out-of-Network,69,1.26,True
+77,Davis Inc Clinic,Pharmacy,AE,UAE,MEA,Out-of-Network,78,0.87,True
+78,"Rivera, Martinez and Gomez Services",Air Ambulance,KR,South Korea,APAC,In-Network,78,0.88,True
+79,Moore Group Services,Air Ambulance,AU,Australia,APAC,In-Network,73,0.9,True
+80,Aguirre PLC Services,Hospital,PH,Philippines,APAC,Out-of-Network,90,1.23,True
+81,Bell-White Hospital,Travel Vendor,MX,Mexico,Americas,In-Network,93,0.94,True
+82,Reese and Sons Group,Travel Vendor,MY,Malaysia,APAC,Out-of-Network,59,0.94,True
+83,"Carlson, Ware and Moore Hospital",Air Ambulance,GB,United Kingdom,EMEA,Out-of-Network,76,1.01,True
+84,Perry-Lewis Services,Hospital,MX,Mexico,Americas,In-Network,72,1.06,True
+85,Rose-Parker Services,Hospital,IT,Italy,EMEA,Out-of-Network,82,1.19,True
+86,Roberts-Wilson Center,Air Ambulance,PH,Philippines,APAC,In-Network,55,1.32,True
+87,"Hansen, Barnett and Gomez Center",Pharmacy,ES,Spain,EMEA,Out-of-Network,66,1.12,True
+88,"Patterson, Sullivan and Bowman Hospital",Pharmacy,GB,United Kingdom,EMEA,In-Network,82,1.31,True
+89,Collier-Gillespie Services,Hospital,IN,India,APAC,Out-of-Network,56,1.25,True
+90,Harrell-Reese Group,Air Ambulance,KR,South Korea,APAC,In-Network,70,1.05,True
+91,Luna-Fuentes Hospital,Ambulance,PH,Philippines,APAC,In-Network,59,1.1,True
+92,"Jones, Bean and Burton Center",Clinic,MY,Malaysia,APAC,In-Network,64,0.94,True
+93,Harrison Ltd Clinic,Travel Vendor,DE,Germany,EMEA,Out-of-Network,98,1.01,True
+94,Wood LLC Group,Ambulance,IN,India,APAC,In-Network,77,1.08,True
+95,Stout-Armstrong Group,Pharmacy,KR,South Korea,APAC,In-Network,94,1.14,True
+96,"Miller, Lucas and Williams Hospital",Ambulance,ID,Indonesia,APAC,Out-of-Network,87,1.08,True
+97,"Harper, Mccormick and Holland Hospital",Air Ambulance,DE,Germany,EMEA,In-Network,78,1.04,True
+98,Cook PLC Services,Ambulance,KR,South Korea,APAC,In-Network,90,0.98,True
+99,Hansen-Schneider Group,Clinic,AU,Australia,APAC,Out-of-Network,74,1.15,True
+100,White-Lewis Hospital,Clinic,AE,UAE,MEA,In-Network,96,1.03,True
+101,Romero PLC Hospital,Clinic,ES,Spain,EMEA,In-Network,63,0.9,True
+102,Guerra PLC Center,Hospital,IT,Italy,EMEA,Out-of-Network,94,1.04,True
+103,Bishop-Goodwin Center,Pharmacy,VN,Vietnam,APAC,Out-of-Network,57,1.19,True
+104,Murray-Campbell Services,Clinic,DE,Germany,EMEA,In-Network,74,1.03,True
+105,Davidson LLC Hospital,Travel Vendor,GB,United Kingdom,EMEA,Out-of-Network,65,0.92,True
+106,Cole-Palmer Center,Hospital,US,United States,Americas,In-Network,73,0.97,True
+107,"Brooks, Hughes and Miller Clinic",Hospital,FR,France,EMEA,In-Network,83,1.06,True
+108,Horton-Taylor Hospital,Hospital,PH,Philippines,APAC,Out-of-Network,61,0.92,True
+109,"Bentley, Lynch and Henderson Center",Air Ambulance,ES,Spain,EMEA,In-Network,60,0.96,True
+110,Brown-Copeland Services,Clinic,IN,India,APAC,Out-of-Network,62,1.06,True
+111,Patterson-Mendez Center,Travel Vendor,ES,Spain,EMEA,In-Network,95,0.91,True
+112,"Stephens, Hartman and Romero Group",Travel Vendor,PH,Philippines,APAC,Out-of-Network,66,1.34,True
+113,Kramer-Cooper Group,Air Ambulance,TH,Thailand,APAC,Out-of-Network,57,0.98,True
+114,Li-Thompson Services,Pharmacy,AU,Australia,APAC,In-Network,92,0.87,True
+115,Carter Inc Clinic,Air Ambulance,AU,Australia,APAC,Out-of-Network,95,0.88,True
+116,"Lee, Kelly and Norman Group",Hospital,ID,Indonesia,APAC,Out-of-Network,74,1.09,True
+117,Morgan-Lopez Clinic,Ambulance,BR,Brazil,Americas,Out-of-Network,62,1.29,True
+118,"Carter, Garcia and Murphy Center",Ambulance,ES,Spain,EMEA,Out-of-Network,60,1.07,True
+119,Williams-Berg Hospital,Ambulance,IN,India,APAC,Out-of-Network,93,1.19,True
+120,Palmer-Brady Clinic,Travel Vendor,TR,Turkey,EMEA,Out-of-Network,72,0.9,True
+121,"Diaz, Reyes and Bradley Center",Hospital,VN,Vietnam,APAC,In-Network,93,0.91,True
+122,Moreno Group Services,Clinic,MX,Mexico,Americas,Out-of-Network,78,1.23,True
+123,"Hughes, Hoffman and Green Clinic",Pharmacy,AE,UAE,MEA,Out-of-Network,70,1.22,True
+124,Martinez Inc Clinic,Pharmacy,CN,China,APAC,Out-of-Network,68,0.88,True
+125,"Brown, Daniels and Vance Hospital",Clinic,DE,Germany,EMEA,Out-of-Network,60,0.85,True
+126,Tyler Inc Center,Pharmacy,VN,Vietnam,APAC,In-Network,78,1.34,True
+127,Sanders-Love Group,Travel Vendor,TR,Turkey,EMEA,Out-of-Network,84,1.29,True
+128,Owens-Holmes Group,Travel Vendor,ES,Spain,EMEA,Out-of-Network,81,1.34,True
+129,Holmes LLC Group,Travel Vendor,MY,Malaysia,APAC,In-Network,63,1.31,True
+130,Gonzalez-Huber Group,Clinic,VN,Vietnam,APAC,Out-of-Network,69,1.3,True
+131,"Moore, Hopkins and Le Services",Clinic,CN,China,APAC,Out-of-Network,94,1.17,True
+132,Curtis-Wang Services,Ambulance,MX,Mexico,Americas,In-Network,56,1.32,True
+133,Ballard Ltd Clinic,Travel Vendor,FR,France,EMEA,In-Network,86,1.33,True
+134,Harris-Lawson Clinic,Ambulance,GB,United Kingdom,EMEA,Out-of-Network,59,1.07,True
+135,"Rodriguez, Allen and Martinez Services",Pharmacy,AE,UAE,MEA,Out-of-Network,77,1.23,True
+136,Wright-Grimes Services,Clinic,DE,Germany,EMEA,In-Network,61,1.32,True
+137,Koch-Jimenez Clinic,Ambulance,VN,Vietnam,APAC,Out-of-Network,67,1.35,True
+138,Simpson-Khan Group,Air Ambulance,KR,South Korea,APAC,Out-of-Network,70,1.03,True
+139,"Diaz, Powell and Williams Hospital",Pharmacy,BR,Brazil,Americas,Out-of-Network,73,1.07,True
+140,"Cole, Pierce and Bryan Clinic",Travel Vendor,JP,Japan,APAC,In-Network,78,0.9,True
+141,"Mcmillan, Fischer and Gonzalez Hospital",Pharmacy,MX,Mexico,Americas,In-Network,63,1.04,True
+142,"Bryant, Obrien and Robertson Clinic",Air Ambulance,IT,Italy,EMEA,In-Network,57,1.21,True
+143,"Rogers, Clayton and Patel Hospital",Travel Vendor,AE,UAE,MEA,Out-of-Network,65,1.22,True
+144,"Parker, Roach and Wiggins Clinic",Ambulance,CA,Canada,Americas,Out-of-Network,56,1.19,True
+145,"Castillo, Warren and Griffith Group",Hospital,BR,Brazil,Americas,Out-of-Network,71,0.92,True
+146,Hernandez-Vaughn Hospital,Clinic,GB,United Kingdom,EMEA,In-Network,57,0.86,True
+147,"Mendoza, Bennett and Frye Hospital",Travel Vendor,FR,France,EMEA,Out-of-Network,58,0.95,True
+148,"Washington, Bernard and Ramirez Hospital",Travel Vendor,DE,Germany,EMEA,Out-of-Network,89,0.86,True
+149,Castillo-Castro Clinic,Clinic,IN,India,APAC,Out-of-Network,73,0.88,True
+150,Williams-Moses Center,Ambulance,CN,China,APAC,In-Network,91,1.26,True
+151,Harris PLC Clinic,Ambulance,KR,South Korea,APAC,Out-of-Network,96,0.95,True
+152,Williams PLC Center,Travel Vendor,CN,China,APAC,Out-of-Network,63,1.22,True
+153,Maldonado and Sons Clinic,Pharmacy,PH,Philippines,APAC,In-Network,58,1.02,True
+154,Mitchell-Brown Hospital,Travel Vendor,TH,Thailand,APAC,In-Network,81,1.18,True
+155,Osborn Group Center,Pharmacy,KR,South Korea,APAC,In-Network,89,1.06,True
+156,Mitchell-Hays Group,Clinic,ES,Spain,EMEA,Out-of-Network,57,1.13,True
+157,Martin-Stevens Group,Travel Vendor,US,United States,Americas,Out-of-Network,63,0.95,True
+158,Carr Ltd Center,Pharmacy,CN,China,APAC,In-Network,55,1.13,True
+159,Holden Group Group,Air Ambulance,GB,United Kingdom,EMEA,Out-of-Network,60,0.85,True
+160,Turner-Sharp Hospital,Clinic,AE,UAE,MEA,In-Network,71,1.07,True
+161,Moore-Parks Clinic,Ambulance,TH,Thailand,APAC,Out-of-Network,99,1.18,True
+162,Mendoza Group Center,Pharmacy,IN,India,APAC,In-Network,95,1.16,True
+163,"Petersen, Gill and Becker Services",Ambulance,MX,Mexico,Americas,Out-of-Network,99,0.96,True
+164,Brown PLC Services,Hospital,MX,Mexico,Americas,Out-of-Network,88,0.9,True
+165,"Aguilar, Davis and Dixon Center",Clinic,IT,Italy,EMEA,In-Network,65,1.07,True
+166,Chambers-Parker Services,Air Ambulance,JP,Japan,APAC,In-Network,87,1.13,True
+167,Graves-Weaver Clinic,Air Ambulance,TH,Thailand,APAC,Out-of-Network,55,0.89,True
+168,"Good, Brewer and Fisher Center",Hospital,JP,Japan,APAC,Out-of-Network,57,0.94,True
+169,Valdez LLC Services,Air Ambulance,GB,United Kingdom,EMEA,Out-of-Network,79,0.87,True
+170,Avila LLC Center,Clinic,SG,Singapore,APAC,Out-of-Network,88,0.93,True
+171,Hill Ltd Hospital,Pharmacy,DE,Germany,EMEA,Out-of-Network,89,0.97,True
+172,"Johnson, Harper and Warner Group",Hospital,SG,Singapore,APAC,Out-of-Network,94,0.95,True
+173,Gordon LLC Group,Clinic,JP,Japan,APAC,In-Network,80,1.12,True
+174,"Boyd, Gutierrez and Hill Center",Pharmacy,PH,Philippines,APAC,Out-of-Network,91,1.0,True
+175,"Powers, Floyd and Flores Hospital",Travel Vendor,US,United States,Americas,In-Network,95,1.1,True
+176,Atkinson LLC Clinic,Air Ambulance,FR,France,EMEA,In-Network,74,1.23,True
+177,Sanchez-Harris Center,Air Ambulance,MY,Malaysia,APAC,In-Network,90,1.13,True
+178,Adams Ltd Center,Hospital,BR,Brazil,Americas,Out-of-Network,78,1.21,True
+179,"Powers, Robinson and Clark Services",Travel Vendor,MX,Mexico,Americas,In-Network,59,0.97,True
+180,"Key, Mendoza and Sanchez Group",Ambulance,AE,UAE,MEA,In-Network,68,0.94,True

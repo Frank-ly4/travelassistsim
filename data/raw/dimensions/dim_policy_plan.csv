@@ -1,0 +1,6 @@
+policy_plan_id,policy_plan_name,coverage_multiplier,priority_support_included
+1,Basic,0.75,False
+2,Standard,1.0,True
+3,Premium,1.35,True
+4,Corporate,1.2,True
+5,VIP,1.6,True

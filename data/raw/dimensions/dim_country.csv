@@ -1,0 +1,23 @@
+country_code,country_name,region_group,cost_index,response_delay_multiplier
+TH,Thailand,APAC,1.0,1.0
+JP,Japan,APAC,1.2,0.95
+KR,South Korea,APAC,1.1,0.95
+SG,Singapore,APAC,1.3,0.9
+MY,Malaysia,APAC,0.95,1.05
+VN,Vietnam,APAC,0.85,1.1
+ID,Indonesia,APAC,0.9,1.15
+PH,Philippines,APAC,0.88,1.1
+CN,China,APAC,1.05,1.05
+IN,India,APAC,0.92,1.1
+AE,UAE,MEA,1.25,0.95
+TR,Turkey,EMEA,0.98,1.05
+GB,United Kingdom,EMEA,1.35,0.95
+FR,France,EMEA,1.3,0.95
+DE,Germany,EMEA,1.25,0.95
+ES,Spain,EMEA,1.1,1.0
+IT,Italy,EMEA,1.15,1.0
+US,United States,Americas,1.5,1.05
+CA,Canada,Americas,1.2,1.0
+MX,Mexico,Americas,0.95,1.1
+BR,Brazil,Americas,1.0,1.15
+AU,Australia,APAC,1.25,0.95

@@ -20,17 +20,3 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Outputs
-output/logs/*
-output/reports/*
-!output/logs/.gitkeep
-!output/reports/.gitkeep
-
-# Data files (keep folders, not large generated files)
-data/raw/**/*
-data/clean/**/*
-data/curated/**/*
-!data/raw/.gitkeep
-!data/clean/.gitkeep
-!data/curated/.gitkeep

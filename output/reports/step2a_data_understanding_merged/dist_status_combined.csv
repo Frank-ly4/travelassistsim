@@ -1,0 +1,12 @@
+current_status_id,count,status_name
+10,22719,Closed
+4,425,Pending Documents
+3,371,Provider Contacted
+9,318,Arranged / Reimbursed
+5,301,Under Review
+7,262,Approved
+2,182,Triage Started
+6,154,Escalated
+8,104,Denied
+1,97,Case Created
+11,87,Reopened

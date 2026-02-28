@@ -1,0 +1,7 @@
+flag_name,flag_value,count
+escalated_flag,False,20913
+escalated_flag,True,4107
+is_vip_case_flag,False,23526
+is_vip_case_flag,True,1494
+reopened_flag,False,24228
+reopened_flag,True,792

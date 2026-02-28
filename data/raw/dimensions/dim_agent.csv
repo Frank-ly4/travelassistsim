@@ -1,0 +1,61 @@
+agent_id,agent_code,agent_name,team_id,team_name,seniority,language_band,shift_name,active_flag
+1,AGT-0001,Daniel Doyle,6,Night Shift Global,Junior,EN,Night,True
+2,AGT-0002,Brandon Hall,6,Night Shift Global,Junior,Multi,Evening,True
+3,AGT-0003,Meredith Barnes,5,Cost Containment,Junior,Multi,Day,True
+4,AGT-0004,Gina Moore,4,Escalations Desk,Senior,EN,Day,True
+5,AGT-0005,Ryan Munoz,3,Travel Assistance,Junior,EN,Evening,True
+6,AGT-0006,Jamie Arnold,1,Frontline Intake,Lead,Multi,Day,True
+7,AGT-0007,Amber Perez,6,Night Shift Global,Senior,Multi,Day,True
+8,AGT-0008,Jesse Flowers,3,Travel Assistance,Junior,EN+TH,Day,True
+9,AGT-0009,Mia Sutton,2,Medical Assistance,Senior,EN+JP,Day,True
+10,AGT-0010,Joel Nelson,1,Frontline Intake,Associate,Multi,Night,True
+11,AGT-0011,Andrew Stewart,6,Night Shift Global,Associate,EN+JP,Day,True
+12,AGT-0012,Emily Rios,3,Travel Assistance,Junior,EN+TH,Night,True
+13,AGT-0013,Patrick Ryan,4,Escalations Desk,Lead,EN+TH,Evening,True
+14,AGT-0014,Zachary Taylor,6,Night Shift Global,Lead,Multi,Evening,True
+15,AGT-0015,Christopher Becker,4,Escalations Desk,Junior,EN,Day,True
+16,AGT-0016,Julie King,5,Cost Containment,Junior,EN+FR,Evening,True
+17,AGT-0017,Nicole Mack,5,Cost Containment,Junior,EN,Night,True
+18,AGT-0018,Aaron Bowen,3,Travel Assistance,Junior,EN+JP,Evening,True
+19,AGT-0019,Ashley Garrett,6,Night Shift Global,Senior,Multi,Day,True
+20,AGT-0020,Kimberly Osborne,6,Night Shift Global,Associate,EN+TH,Evening,True
+21,AGT-0021,Brian Cox DVM,5,Cost Containment,Junior,Multi,Evening,True
+22,AGT-0022,Theresa Miller,3,Travel Assistance,Associate,EN,Day,True
+23,AGT-0023,John Pierce,4,Escalations Desk,Junior,Multi,Day,True
+24,AGT-0024,Melissa Marquez,3,Travel Assistance,Lead,EN+TH,Night,True
+25,AGT-0025,David Brown,4,Escalations Desk,Senior,EN+FR,Night,True
+26,AGT-0026,Michael Brown,1,Frontline Intake,Associate,Multi,Day,True
+27,AGT-0027,Diana Washington,1,Frontline Intake,Junior,EN+JP,Day,True
+28,AGT-0028,Richard Aguirre,5,Cost Containment,Associate,Multi,Night,True
+29,AGT-0029,Jeff Owens,2,Medical Assistance,Junior,EN,Night,True
+30,AGT-0030,Gerald Hensley,6,Night Shift Global,Junior,EN,Day,True
+31,AGT-0031,Javier Ramirez,2,Medical Assistance,Associate,EN+TH,Night,True
+32,AGT-0032,Matthew Fernandez,2,Medical Assistance,Junior,EN+FR,Night,True
+33,AGT-0033,John Hancock,1,Frontline Intake,Junior,EN+TH,Day,True
+34,AGT-0034,Mrs. Rachel Gibson,1,Frontline Intake,Associate,EN+FR,Day,True
+35,AGT-0035,Wayne Riley,4,Escalations Desk,Lead,EN+TH,Day,True
+36,AGT-0036,John Calhoun,5,Cost Containment,Junior,EN+JP,Day,True
+37,AGT-0037,Cody Larson,5,Cost Containment,Associate,EN,Night,True
+38,AGT-0038,Laura Riley,6,Night Shift Global,Associate,EN+FR,Day,True
+39,AGT-0039,Kelly Donovan,1,Frontline Intake,Junior,EN+FR,Night,True
+40,AGT-0040,Michael Evans,2,Medical Assistance,Senior,EN+TH,Evening,True
+41,AGT-0041,Kristine Garcia,3,Travel Assistance,Junior,EN,Evening,True
+42,AGT-0042,Gregory Jones,5,Cost Containment,Associate,Multi,Evening,True
+43,AGT-0043,Joshua Turner,2,Medical Assistance,Senior,EN+JP,Day,True
+44,AGT-0044,Ashley Humphrey,6,Night Shift Global,Junior,Multi,Evening,True
+45,AGT-0045,Denise Jacobs,3,Travel Assistance,Junior,EN,Night,True
+46,AGT-0046,Deborah Freeman,6,Night Shift Global,Senior,EN+TH,Night,True
+47,AGT-0047,Gavin Anderson,1,Frontline Intake,Junior,EN+FR,Evening,True
+48,AGT-0048,Kristina Rodriguez,3,Travel Assistance,Associate,EN+FR,Night,True
+49,AGT-0049,Lauren Hernandez,6,Night Shift Global,Associate,Multi,Day,True
+50,AGT-0050,Rebecca Valencia,2,Medical Assistance,Junior,EN+JP,Evening,True
+51,AGT-0051,Richard Henson,3,Travel Assistance,Associate,EN+TH,Night,True
+52,AGT-0052,Rita Keith,4,Escalations Desk,Associate,EN+TH,Day,True
+53,AGT-0053,Sharon Cochran,1,Frontline Intake,Associate,EN+JP,Evening,True
+54,AGT-0054,Shannon Walker,3,Travel Assistance,Associate,EN,Evening,True
+55,AGT-0055,Matthew Ross,4,Escalations Desk,Senior,EN+JP,Day,True
+56,AGT-0056,Jennifer Zavala,3,Travel Assistance,Junior,EN+JP,Evening,True
+57,AGT-0057,Debbie Carpenter,5,Cost Containment,Senior,EN,Day,True
+58,AGT-0058,Nicholas Edwards,3,Travel Assistance,Junior,EN,Night,True
+59,AGT-0059,Andrew Graham,5,Cost Containment,Junior,EN+FR,Night,True
+60,AGT-0060,Matthew Rivera,5,Cost Containment,Associate,EN+JP,Evening,True

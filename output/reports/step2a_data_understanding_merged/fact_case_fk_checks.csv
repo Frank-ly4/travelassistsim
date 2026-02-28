@@ -1,0 +1,10 @@
+fact_column,dim_table,dim_key_column,fact_rows,fact_null_rows,fact_distinct_non_null,dim_distinct_keys,unmatched_distinct_count,unmatched_row_count,pass_check
+assigned_agent_id,dim_agent,agent_id,25020,0,28,60,0,0,True
+assigned_team_id,dim_team,team_id,25020,0,3,6,0,0,True
+case_type_id,dim_case_type,case_type_id,25020,0,10,10,0,0,True
+current_status_id,dim_status,status_id,25020,0,11,11,0,0,True
+intake_channel_id,dim_channel,channel_id,25020,0,5,5,0,0,True
+origin_country_code,dim_country,country_code,25020,0,22,22,0,0,True
+policy_plan_id,dim_policy_plan,policy_plan_id,25020,0,5,5,0,0,True
+primary_provider_id,dim_provider,provider_id,25020,125,180,180,0,0,True
+priority_id,dim_priority,priority_id,25020,0,4,4,0,0,True

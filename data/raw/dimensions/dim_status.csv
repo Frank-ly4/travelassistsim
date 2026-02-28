@@ -1,0 +1,12 @@
+status_id,status_name,stage_order,is_terminal,stage_group
+1,Case Created,1,False,Intake
+2,Triage Started,2,False,Intake
+3,Provider Contacted,3,False,External Coordination
+4,Pending Documents,4,False,Documentation
+5,Under Review,5,False,Review
+6,Escalated,6,False,Escalation
+7,Approved,7,False,Decision
+8,Denied,7,False,Decision
+9,Arranged / Reimbursed,8,False,Fulfillment
+10,Closed,9,True,Closure
+11,Reopened,10,False,Closure

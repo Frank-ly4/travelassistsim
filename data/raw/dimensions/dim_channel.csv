@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_group
+1,Phone,Synchronous
+2,Email,Asynchronous
+3,App,Digital
+4,Web Portal,Digital
+5,Provider Hotline,Synchronous

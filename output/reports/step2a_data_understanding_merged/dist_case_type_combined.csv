@@ -1,0 +1,11 @@
+case_type_id,count,case_type_name
+2,5356,Outpatient Sickness
+1,4586,Medical Emergency
+3,3933,Flight Cancellation
+7,2524,Trip Interruption
+4,2513,Lost Baggage
+6,2046,Hospital Admission Guarantee
+9,1467,Prescription Assistance
+10,1324,Telemedicine Referral
+5,767,Medical Evacuation
+8,504,Repatriation Coordination
